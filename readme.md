@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://anondev.ml" target="_blank"><img src="https://i.imgur.com/e2CyvxY.png" width="600px"></a>
+<a href="https://anondev.ml" target="_blank"><img src="https://i.imgur.com/e2CyvxY.png" width="900px"></a>
 <br><br>
   
   
