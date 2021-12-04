@@ -27,7 +27,7 @@ or <a href="mailto:contact@anondev.ml"><b>email</b></a> me.
 </br>
 </br>
 <i>Random dev joke for you:</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes">
 
 ![](https://komarev.com/ghpvc/?username=anondev-sudo&color=blue)
 
