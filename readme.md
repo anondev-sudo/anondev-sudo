@@ -4,7 +4,7 @@
 <br><br>
   
   
-<h2><img src="https://i.imgur.com/WGZ79wF.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2><img src="https://i.imgur.com/WGZ79wF.gif" width="30px" height="30px"> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 
 
