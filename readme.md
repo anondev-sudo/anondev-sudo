@@ -11,7 +11,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-📫 Ask me anything in my Discord DMs, on [Pinglik Support server](https://pinglik.eu/support) or <a href="https://github.com/anondev-sudo/anondev-sudo/discussions"><b>here</b></a><br>
+📫 Ask me anything in my Discord DMs, on [Pinglik Support server](https://pinglik.eu/support), <a href="https://github.com/anondev-sudo/anondev-sudo/discussions"><b>here</b></a><br>
 or <a href="mailto:contact@anondev.ml"><b>email</b></a> me.
 
 <a href='https://ko-fi.com/J3J72WPRC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
