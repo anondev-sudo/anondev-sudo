@@ -17,7 +17,7 @@ or <a href="mailto:contact@anondev.ml"><b>email</b></a> me.
 <a href='https://ko-fi.com/J3J72WPRC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
  <a href="https://discord.gg/K7t43hck3s" target="_blank">
-    <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord server">
+    <img src="https://img.shields.io/badge/Discord-Pinglik%20Support%20server-7289da?style=for-the-badge&logo=discord" alt="Discord server">
   </a>
 
 <br>
